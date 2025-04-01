@@ -1,5 +1,6 @@
 {
   "name": "my-v0-project",
+  "hompage": "http://bplfinancials.co.za/",
   "version": "0.1.0",
   "private": true,
   "scripts": {
